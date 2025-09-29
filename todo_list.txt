@@ -1,0 +1,4 @@
+3	zalít kytky	true
+2	uklidit	true
+1	hello	false
+4	aaaauto	false
